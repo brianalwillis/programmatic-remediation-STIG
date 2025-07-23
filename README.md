@@ -31,3 +31,9 @@ Windows STIGs <code>(Security Technical Implementation Guides)</code> are standa
 | *`WN10-SO-000260`* | *Medium*     | User Account Control must be configured to detect application installations and prompt for elevation.  | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000260.ps1) |
 | *`WN10-SO-000265`* | *Medium*     | User Account Control must only elevate UIAccess applications that are installed in secure locations.   | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000265.ps1) |
 | *`WN10-SO-000270`* | *Medium*     | User Account Control must run all administrators in Admin Approval Mode, enabling UAC.                 | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000270.ps1) |
+
+<h2 = align=center>𝚂𝚃𝙸𝙶 𝚂𝙴𝚂𝚂𝙸𝙾𝙽𝚂</h2>
+
+<p = align=center>
+<img width="765" height="387" alt="STIG 1" src="https://github.com/user-attachments/assets/be780f89-84cd-4944-a5fe-6745a0a38439" />
+</p>
