@@ -25,7 +25,7 @@
     PS C:\> .\__remediation_template(STIG-ID-WN10-SO-000270).ps1 
 #>
 
-# Run as Administrator
+# Run this script as Administrator
 
 # Define the registry path and value
 $regPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System"
