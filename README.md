@@ -2,7 +2,7 @@
 <h2 = align=center>REMEDIATION TABLE</h2>
 
 | STIG ID        | Severity | Description                                                                                          | Language   | Script                                                                                          |
-|----------------|----------|------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------|
+|:---------------|:---------|:-----------------------------------------------------------------------------------------------------|:-----------|:------------------------------------------------------------------------------------------------|
 | WN10-AU-000500 | Medium   | The Application event log size must be configured to 32768 KB or greater                             | PowerShell | [Remediation](https://github.com/brianalwillis/brianalwillis/blob/main/STIG/WN10-AU-000500.ps1) |
 | WN10-SO-000010 | Medium   | The built-in guest account must be disabled                                                          | PowerShell | [Remediation](https://github.com/brianalwillis/brianalwillis/blob/main/STIG/WN10-SO-000010.ps1) |
 | WN10-SO-000030 | Medium   | Audit policy using subcategories must be enabled                                                     | PowerShell | [Remediation](https://github.com/brianalwillis/brianalwillis/blob/main/STIG/WN10-SO-000030.ps1) |
