@@ -10,6 +10,8 @@ Windows STIGs <code>(Security Technical Implementation Guides)</code> are standa
 
 <h2 = align=center>𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝚂𝙲𝙰𝙽 7/23</h2>
 
+<h3 = align=center><em><code>137</code> Failed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Warning &nbsp;&nbsp;&nbsp;&nbsp; <code>110</code> Passed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Remediations </em></h3>
+
 <h2 = align=center>𝚁𝙴𝙼𝙴𝙳𝙸𝙰𝚃𝙸𝙾𝙽 𝚃𝙰𝙱𝙻𝙴</h2>
 
 | *STIG ID*            | *Severity*   | *Description*                                                                                          | *Language*   | *Script*                                                                                                            |
@@ -25,7 +27,7 @@ Windows STIGs <code>(Security Technical Implementation Guides)</code> are standa
 | ***WN10-SO-000030*** | *Medium*     | Audit policy using subcategories must be enabled.                                                      | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000030.ps1) |
 | ***WN10-SO-000035*** | *Medium*     | Outgoing secure channel traffic must be encrypted or signed.                                           | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000035.ps1) |
 | ***WN10-SO-000230*** | *Medium*     | The system must be configured to use FIPS-compliant algorithms for encryption, hashing, and signing.   | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000230.ps1) |
-| ***WN10-SO-000255*** | *Medium*     | User Account Control must automatically deny elevation requests for standard users. | *PowerShell*     | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000255.ps1) |
+| ***WN10-SO-000255*** | *Medium*     | User Account Control must automatically deny elevation requests for standard users.                    | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000255.ps1) |
 | ***WN10-SO-000260*** | *Medium*     | User Account Control must be configured to detect application installations and prompt for elevation.  | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000260.ps1) |
 | ***WN10-SO-000265*** | *Medium*     | User Account Control must only elevate UIAccess applications that are installed in secure locations.   | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000265.ps1) |
 | ***WN10-SO-000270*** | *Medium*     | User Account Control must run all administrators in Admin Approval Mode, enabling UAC.                 | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000270.ps1) |
