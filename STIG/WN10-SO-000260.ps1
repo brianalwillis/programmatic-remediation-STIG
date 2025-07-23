@@ -6,8 +6,8 @@
     Author          : Briana Willis
     LinkedIn        : linkedin.com/in/brianalwillis
     GitHub          : github.com/brianalwillis
-    Date Created    : 6-30-2025
-    Last Modified   : 6-30-2025
+    Date Created    : 2025-06-30
+    Last Modified   : 2025-06-30
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
@@ -22,8 +22,10 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN10-SO-000260).ps1 
 #>
+
+# Run this script as Administrator
 
 # Define registry path and value
 $regPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System"
