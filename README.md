@@ -4,15 +4,15 @@
 Windows STIGs <code>(Security Technical Implementation Guides)</code> are standardized security guidelines developed by the <code>Defense Information Systems Agency</code> (DISA) to ensure that Windows systems are configured securely, minimizing vulnerabilities and preventing unauthorized access.
 </em></h3>
 
-<h2 = align=center>𝙱𝙰𝚂𝙴𝙻𝙸𝙽𝙴 𝚂𝙲𝙰𝙽 6/29</h2>
+<h2 = align=center>BASELINE SCAN 6/29</h2>
 
 <h3 = align=center><em><code>147</code> Failed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Warning &nbsp;&nbsp;&nbsp;&nbsp; <code>100</code> Passed &nbsp;&nbsp;&nbsp;&nbsp; <code>262</code> Total STIGs </em></h3>
 
-<h2 = align=center>𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝚂𝙲𝙰𝙽 7/23</h2>
+<h2 = align=center>CURRENT SCAN 7/23</h2>
 
 <h3 = align=center><em><code>137</code> Failed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Warning &nbsp;&nbsp;&nbsp;&nbsp; <code>110</code> Passed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Remediations </em></h3>
 
-<h2 = align=center>𝚁𝙴𝙼𝙴𝙳𝙸𝙰𝚃𝙸𝙾𝙽 𝚃𝙰𝙱𝙻𝙴</h2>
+<h2 = align=center>REMEDIATION TABLE</h2>
 
 | *STIG ID*                                                                         | *Severity*   | *Description*                                                                                          | *Language*   | *Script*                                                                                                            |
 |:----------------------------------------------------------------------------------|:-------------|:-------------------------------------------------------------------------------------------------------|:-------------|:--------------------------------------------------------------------------------------------------------------------|
