@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    IPv6 source routing must be configured to the highest protection.
+    The Windows Defender SmartScreen for Explorer must be enabled.
 
 .NOTES
     Author          : Briana Willis
