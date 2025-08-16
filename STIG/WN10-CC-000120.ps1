@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    IPv6 source routing must be configured to the highest protection.
+    The network selection user interface (UI) must not be displayed on the logon screen.
 
 .NOTES
     Author          : Briana Willis
