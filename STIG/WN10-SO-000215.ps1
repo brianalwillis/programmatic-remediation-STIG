@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    IPv6 source routing must be configured to the highest protection.
+    The system must be configured to meet the minimum session security requirements for NTLM SSP-based clients.
 
 .NOTES
     Author          : Briana Willis
