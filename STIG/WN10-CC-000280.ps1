@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    IPv6 source routing must be configured to the highest protection.
+    Remote Desktop Services must always prompt a client for passwords upon connection.
 
 .NOTES
     Author          : Briana Willis
