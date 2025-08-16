@@ -39,7 +39,7 @@ Windows STIGs <code>(Security Technical Implementation Guides)</code> are standa
   
 | *Failed* | *Warning* | *Passed* | *Remediations* |
 |:--------:|:---------:|:--------:|:--------------:|
-| *`115`*  | *`15`*    | *`132`*  | *`15`*         | 
+| *`115`*  | *`15`*    | *`132`*  | *`37`*         | 
 
 
 </div>
