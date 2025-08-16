@@ -1,8 +1,14 @@
 <h1 = align=center><code>MICROSOFT WINDOWS 10 DISA STIG</code></h1>
 
+<p = align=center>
+<img width="720" height="264" alt="cover" src="https://github.com/user-attachments/assets/4748d469-70ea-4e63-b9b5-5c762c716c6d" />
+</p>
+
 <h3 align="center"><em>
 Windows STIGs <code>(Security Technical Implementation Guides)</code> are standardized security guidelines developed by the <code>Defense Information Systems Agency</code> (DISA) to ensure that Windows systems are configured securely, minimizing vulnerabilities and preventing unauthorized access.
 </em></h3>
+
+---
 
 <h2 = align=center><em><code>Baseline Scan: 29 June 2025</code></em></h2>
 
@@ -24,6 +30,9 @@ Windows STIGs <code>(Security Technical Implementation Guides)</code> are standa
 
 
 </div>
+
+---
+
 <h2 = align=center><code>Remediation Table</code></h2>
 
 | *STIG ID*                                                                         | *Severity*   | *Description*                                                                                          | *Language*   | *Script*                                                                                                            |
