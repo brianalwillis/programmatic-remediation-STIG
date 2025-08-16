@@ -4,14 +4,26 @@
 Windows STIGs <code>(Security Technical Implementation Guides)</code> are standardized security guidelines developed by the <code>Defense Information Systems Agency</code> (DISA) to ensure that Windows systems are configured securely, minimizing vulnerabilities and preventing unauthorized access.
 </em></h3>
 
-<h2 = align=center><em><code>Baseline Scan:</code> 29 June 2025</em></h2>
+<h2 = align=center><em><code>Baseline Scan: 29 June 2025</code></em></h2>
 
-<h3 = align=center><em><code>147</code> Failed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Warning &nbsp;&nbsp;&nbsp;&nbsp; <code>100</code> Passed &nbsp;&nbsp;&nbsp;&nbsp; <code>262</code> Total STIGs </em></h3>
+<div align="center">
+  
+| *Failed* | *Warning* | *Passed* | *DISA STIGS* |
+|:--------:|:---------:|:--------:|:------------:|
+| *`147`*  | *`15`*    | *`100`*  | *`262`*      | 
 
-<h2 = align=center><em><code>Scan #1:</code> 23 July 2025</em></h2>
+</div>
 
-<h3 = align=center><em><code>137</code> Failed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Warning &nbsp;&nbsp;&nbsp;&nbsp; <code>110</code> Passed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Remediations </em></h3>
+<h2 = align=center><em><code>Scan #1: 23 July 2025</code></em></h2>
 
+<div align="center">
+  
+| *Failed* | *Warning* | *Passed* | *Remediations* |
+|:--------:|:---------:|:--------:|:--------------:|
+| *`137`*  | *`15`*    | *`110`*  | *`15`*         | 
+
+
+</div>
 <h2 = align=center><code>Remediation Table</code></h2>
 
 | *STIG ID*                                                                         | *Severity*   | *Description*                                                                                          | *Language*   | *Script*                                                                                                            |
