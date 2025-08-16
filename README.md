@@ -90,6 +90,13 @@ Windows STIGs <code>(Security Technical Implementation Guides)</code> are standa
 
 <h2 = align=center><code>STIG Sessions</code></h2>
 
+
+<h3 = align=center><em><code>23 July 2025</code></em></h3>
 <p = align=center>
 <img width="765" height="387" alt="STIG 1" src="https://github.com/user-attachments/assets/be780f89-84cd-4944-a5fe-6745a0a38439" />
+</p>
+
+<h3 = align=center><em><code>16 August 2025</code></em></h3>
+<p = align=center>
+<img width="979" height="945" alt="DISA Session 2 SS" src="https://github.com/user-attachments/assets/fb10425f-7e67-41fa-9353-25cdef36f5c3" />
 </p>
