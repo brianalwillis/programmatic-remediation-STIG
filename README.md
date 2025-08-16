@@ -1,18 +1,18 @@
-<h1 = align=center>𝙼𝙸𝙲𝚁𝙾𝚂𝙾𝙵𝚃 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶</h1>
+<h1 = align=center><code>MICROSOFT WINDOWS 10 DISA STIG</code></h1>
 
 <h3 align="center"><em>
 Windows STIGs <code>(Security Technical Implementation Guides)</code> are standardized security guidelines developed by the <code>Defense Information Systems Agency</code> (DISA) to ensure that Windows systems are configured securely, minimizing vulnerabilities and preventing unauthorized access.
 </em></h3>
 
-<h2 = align=center>BASELINE SCAN 6/29</h2>
+<h2 = align=center><em><code>Baseline Scan:</code> 29 June 2025</em></h2>
 
 <h3 = align=center><em><code>147</code> Failed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Warning &nbsp;&nbsp;&nbsp;&nbsp; <code>100</code> Passed &nbsp;&nbsp;&nbsp;&nbsp; <code>262</code> Total STIGs </em></h3>
 
-<h2 = align=center>CURRENT SCAN 7/23</h2>
+<h2 = align=center><em><code>Scan #1:</code> 23 July 2025</em></h2>
 
 <h3 = align=center><em><code>137</code> Failed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Warning &nbsp;&nbsp;&nbsp;&nbsp; <code>110</code> Passed &nbsp;&nbsp;&nbsp;&nbsp; <code>15</code> Remediations </em></h3>
 
-<h2 = align=center>REMEDIATION TABLE</h2>
+<h2 = align=center><code>Remediation Table</code></h2>
 
 | *STIG ID*                                                                         | *Severity*   | *Description*                                                                                          | *Language*   | *Script*                                                                                                            |
 |-----------------------------------------------------------------------------------|--------------|:-------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
@@ -32,7 +32,7 @@ Windows STIGs <code>(Security Technical Implementation Guides)</code> are standa
 | [*`WN10-SO-000265`*](https://stigaview.com/products/win10/latest/WN10-SO-000265/) | *Medium*     | User Account Control must only elevate UIAccess applications that are installed in secure locations.   | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000265.ps1) |
 | [*`WN10-SO-000270`*](https://stigaview.com/products/win10/latest/WN10-SO-000270/) | *Medium*     | User Account Control must run all administrators in Admin Approval Mode, enabling UAC.                 | *PowerShell* | [*`Remediation`*](https://github.com/brianalwillis/programmatic-remediation-STIG/blob/main/STIG/WN10-SO-000270.ps1) |
 
-<h2 = align=center>STIG SESSIONS</h2>
+<h2 = align=center><code>STIG Sessions</code></h2>
 
 <p = align=center>
 <img width="765" height="387" alt="STIG 1" src="https://github.com/user-attachments/assets/be780f89-84cd-4944-a5fe-6745a0a38439" />
