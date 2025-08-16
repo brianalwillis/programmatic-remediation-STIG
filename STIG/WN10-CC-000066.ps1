@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Command line data must be included in process creation events.
+    Command-line data must be included in process creation events.
 
 .NOTES
     Author          : Briana Willis
